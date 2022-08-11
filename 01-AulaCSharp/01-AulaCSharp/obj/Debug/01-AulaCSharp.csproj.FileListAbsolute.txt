@@ -1,0 +1,10 @@
+C:\Users\andre.csilva41\Desktop\01-AulaCSharp\01-AulaCSharp\bin\Debug\01-AulaCSharp.exe.config
+C:\Users\andre.csilva41\Desktop\01-AulaCSharp\01-AulaCSharp\bin\Debug\01-AulaCSharp.exe
+C:\Users\andre.csilva41\Desktop\01-AulaCSharp\01-AulaCSharp\bin\Debug\01-AulaCSharp.pdb
+C:\Users\andre.csilva41\Desktop\01-AulaCSharp\01-AulaCSharp\obj\Debug\01-AulaCSharp.csproj.AssemblyReference.cache
+C:\Users\andre.csilva41\Desktop\01-AulaCSharp\01-AulaCSharp\obj\Debug\_01_AulaCSharp.Properties.Resources.resources
+C:\Users\andre.csilva41\Desktop\01-AulaCSharp\01-AulaCSharp\obj\Debug\01-AulaCSharp.csproj.GenerateResource.cache
+C:\Users\andre.csilva41\Desktop\01-AulaCSharp\01-AulaCSharp\obj\Debug\01-AulaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\andre.csilva41\Desktop\01-AulaCSharp\01-AulaCSharp\obj\Debug\01-AulaCSharp.exe
+C:\Users\andre.csilva41\Desktop\01-AulaCSharp\01-AulaCSharp\obj\Debug\01-AulaCSharp.pdb
+C:\Users\andre.csilva41\Desktop\01-AulaCSharp\01-AulaCSharp\obj\Debug\_01_AulaCSharp.frmAprendendo.resources
